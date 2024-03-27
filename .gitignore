@@ -1,5 +1,6 @@
 # Competitive Programming Helper files
 /Source File/.cph/
 
-# exe files
-*.exe
+# Run and Debug files
+/Source File/*.exe
+/Source File/*.bin
