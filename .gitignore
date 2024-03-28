@@ -1,6 +1,10 @@
 # Competitive Programming Helper files
 /Source File/.cph/
+/.cph/
 
 # Run and Debug files
 /Source File/*.exe
 /Source File/*.bin
+
+# Folder Icon Setting
+desktop.ini
